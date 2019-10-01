@@ -2,6 +2,10 @@
 
 By Cesar Canassa and Julio Nobrega (2011-02-26)
 
+Blog post:
+
+http://www.inerciasensorial.com.br/2011/04/20/programacao/clojure/pong-in-clojure/
+
 ## Start the game with
 
 ```
