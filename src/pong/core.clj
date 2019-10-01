@@ -290,7 +290,7 @@
      :racquet-height racquet-height
      :racquet-middle-height (/ racquet-height 2)}))
 
-(defn main
+(defn -main
   []
   (let [frame (new JFrame "Clojure Pong")
         start-time (System/currentTimeMillis)
@@ -339,5 +339,3 @@
                (if new-fps? frame-counter fps)
                (if new-fps? 0 (inc frame-counter))
                (if new-fps? 0 (+ one-second step)))))))
-
-(main)
