@@ -1,1 +1,0 @@
-java -jar C:\Users\cesar\Documents\clojure-1.2.0\clojure.jar pong.clj
